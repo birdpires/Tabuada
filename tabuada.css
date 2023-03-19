@@ -1,0 +1,47 @@
+body{
+    background-image: linear-gradient(to right, #3590a8, #2e82a0, #2b7497, #2b678d, #2d5982, #2b5279, #294a70, #274367, #223f5f, #1d3c58, #1a3850, #183448);
+}
+
+header{
+    background-color: gainsboro;
+    position: relative;
+    font-family: 'Indie Flower', sans-serif;
+
+}
+
+h1{
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    margin: 20px;
+    padding: 10px;
+}
+
+h2{
+    text-align: center;
+    color: gainsboro;
+    padding: 10px;
+
+}
+
+p{
+    color: gainsboro;
+    font-size: 20px;
+    text-align: center;
+}
+
+input {
+    min-width: 2%;
+    font-size: 15px;
+}
+
+button{
+    font-size: 15px;
+
+}
+
+div {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
